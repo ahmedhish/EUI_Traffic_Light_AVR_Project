@@ -1,4 +1,4 @@
-# EUI_Traffic_Light_AVR_Project
+# EUI_Traffic_Light_AVR_Project - Team E
 | Names  | Code |
 | ------------- | ------------- |
 | Ahmed Hisham  | 1023  |
