@@ -1,10 +1,11 @@
 # EUI_Traffic_Light_AVR_Project
+| Names  | Code |
+| ------------- | ------------- |
+| Ahmed Hisham  | 1023  |
+| Nada Maher  | 1139  |
+| Norhan Mohamed  | 764  |
+| Salma Mohamed  | 199  |
 
-## Names            Code
-Ahmed Hisham      1023  
-Nada Maher        1139
-Norhan Mohamed    764
-Salma Mohamed     199
 
 ## Video --> click [Here](https://youtu.be/CR2onydPVTU)  
 
